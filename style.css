@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: #000000;
 }
 
 .container {
@@ -23,7 +24,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 80vh;
+  height: 40vh;
   border-radius: 50px;
   color: #fff;
   cursor: pointer;
